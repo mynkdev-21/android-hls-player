@@ -75,5 +75,5 @@ MIT License — free to use, modify and distribute.
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://mayankdeveloper.site"><b>Mayank Singh</b></a>
+Built with ❤️ by [Mayank Singh](https://github.com/mynkdev-21) · [LinkedIn](https://linkedin.com/in/mynk-dev) · [Portfolio](https://mayankdeveloper.site)
 </p>
