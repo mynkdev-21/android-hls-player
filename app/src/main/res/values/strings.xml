@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HLS Player</string>
+    <string name="volume">Volume</string>
+    <string name="brightness">Brightness</string>
+</resources>
